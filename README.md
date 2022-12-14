@@ -11,6 +11,6 @@ hey there
 </div>
 <!--  technologies -->
 <h3>Technologies I Use</h3>
-<div align="center" width="100%">
+<div style="width: 100%; align: center">
 <img src="./images/java.svg" alt="java" width="5%"/><img src="./images/c_hashtag.svg" alt="c#" width="5%"/><img src="./images/python.svg" alt="python" width="5%"/><img src="./images/js.svg" alt="javascript" width="5%"/><img src="./images/nodejs.svg" alt="nodejs" width="5%"/><img src="./images/html.svg" alt="html" width="5%"/><img src="./images/css.svg" alt="css" width="5%"/><img src="./images/unity.svg" alt="unity" width="5%"/><img src="./images/git.svg" alt="git" width="5%"/>
 </div>
