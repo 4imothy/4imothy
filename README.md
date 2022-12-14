@@ -12,5 +12,5 @@ hey there
 <!--  technologies -->
 <h3>Technologies I Use</h3>
 <div align="center" style="width: 100%; display: flex; justify-content: space-around; ">
-<img src="./images/java.svg" alt="java" style="width: 5%; margin-right: 1%"/><img src="./images/c_hashtag.svg" alt="c#" width="5%"/><img src="./images/python.svg" alt="python" width="5%"/><img src="./images/js.svg" alt="javascript" width="5%"/><img src="./images/nodejs.svg" alt="nodejs" width="5%"/><img src="./images/html.svg" alt="html" width="5%"/><img src="./images/css.svg" alt="css" width="5%"/><img src="./images/unity.svg" alt="unity" width="5%"/><img src="./images/git.svg" alt="git" width="5%"/>
+<img src="./images/java.svg" alt="java" style="width: 5%; margin-right: 3%;"/><img src="./images/c_hashtag.svg" alt="c#" style="width: 5%; margin-right: 3%;"/><img src="./images/python.svg" alt="python" style="width: 5%; margin-right: 3%;"/><img src="./images/js.svg" alt="javascript" style="width: 5%; margin-right: 3%;"/><img src="./images/nodejs.svg" alt="nodejs" style="width: 5%; margin-right: 3%;"/><img src="./images/html.svg" alt="html" style="width: 5%; margin-right: 3%;"/><img src="./images/css.svg" alt="css" style="width: 5%; margin-right: 3%;"/><img src="./images/unity.svg" alt="unity" style="width: 5%; margin-right: 3%;"/><img src="./images/git.svg" alt="git" style="width: 5%;"/>
 </div>
