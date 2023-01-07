@@ -14,7 +14,7 @@ Hi I'm Tim
 <a href="https://en.wikipedia.org/wiki/MacOS"><img src="https://img.shields.io/badge/OS-macOS-informational?style=flat-square&logo=apple&logoColor=white" alt="MacOS" style="height: 11%"/></a>
 </div>
 <!--  technologies -->
-<h4>Languages I Use</h4>
+<h3>Languages I Use</h3>
 <a href="https://www.java.com/en/"><img src="./images/java.svg" alt="java" style="width: 5%;"/></a> <a href="https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/">
 <img src="./images/c_hashtag.svg" alt="c#" style="width: 5%;"/></a>  <a href="https://www.python.org"><img src="./images/python.svg" alt="python" style="width: 5%;"/></a>  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="./images/js.svg" alt="javascript" style="width: 5%;"/></a>  <a href="https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics"><img src="./images/html.svg" alt="html" style="width: 5%;"/></a>  <a href="https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/What_is_CSS"><img src="./images/css.svg" alt="css" style="width: 5%;"/></a>  <a href="https://www.typescriptlang.org"><img src="./images/typescript.svg" alt="typescript" style="width: 5%"/></a>
 <div>
