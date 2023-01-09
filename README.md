@@ -20,7 +20,7 @@ Hi I'm Tim
 <!--  technologies -->
 <div>
 <h3>Favorite Technologies</h3>
-<a href="https://en.wikipedia.org/wiki/Z_shell"><img src="./images/zshell.png" alt="zshell" style="width: 5%;"/></a>
+% zshell <a href="https://en.wikipedia.org/wiki/Z_shell"><img src="./images/zshell.png" alt="zshell" style="width: 5%;"/></a>
 <a href="https://www.java.com/en/"><img src="./images/java.svg" alt="java" style="width: 5%;"/></a>
 <a href="https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/"><img src="./images/c_hashtag.svg" alt="c#" style="width: 5%;"/></a>
 <a href="https://www.python.org"><img src="./images/python.svg" alt="python" style="width: 5%;"/></a>
