@@ -20,21 +20,21 @@ Hi I'm Tim
 <!--  technologies -->
 <div>
 <h3>Favorite Technologies</h3>
-% zshell <a href="https://en.wikipedia.org/wiki/Z_shell"><img src="./images/zshell.png" alt="zshell" style="width: 5%;"/></a>
-<a href="https://www.java.com/en/"><img src="./images/java.svg" alt="java" style="width: 5%;"/></a>
-<a href="https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/"><img src="./images/c_hashtag.svg" alt="c#" style="width: 5%;"/></a>
-<a href="https://www.python.org"><img src="./images/python.svg" alt="python" style="width: 5%;"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="./images/js.svg" alt="javascript" style="width: 5%;"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics"><img src="./images/html.svg" alt="html" style="width: 5%;"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/What_is_CSS"><img src="./images/css.svg" alt="css" style="width: 5%;"/></a>
-<a href="https://www.typescriptlang.org"><img src="./images/typescript.svg" alt="typescript" style="width: 5%"/></a> 
-<a href="https://nodejs.org/en/"><img src="./images/nodejs.svg" alt="nodejs" style="width: 5%;"/></a>
-<a href="https://unity.com"><img src="./images/unity.png" alt="unity" style="width: 5%;"/></a>
-<a href="https://git-scm.com"><img src="./images/git.svg" alt="git" style="width: 5%;"/></a>      
-<a href="https://www.blender.org"><img src="./images/blender.svg" alt="blender" style="width: 5%;"/></a>
-<a href="https://neovim.io"><img src="./images/neovim.svg" alt="neovim" style="width: 4%"/></a>
-<a href="https://reactjs.org"><img src="./images/react.svg" alt="react" style="width: 5%"/></a>
-<a href="https://www.tensorflow.org"><img src="./images/tensorflow.svg" alt="tensorflow" style="width: 5%;"/></a>
+<!--zshell--><a href="https://en.wikipedia.org/wiki/Z_shell"><img src="./images/zshell.png" alt="zshell" style="width: 5%;"/></a>
+<!--java--><a href="https://www.java.com/en/"><img src="./images/java.svg" alt="java" style="width: 5%;"/></a>
+<!--nodejs--><a href="https://nodejs.org/en/"><img src="./images/nodejs.svg" alt="nodejs" style="width: 5%;"/></a>
+<!--c#--><a href="https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/"><img src="./images/c_hashtag.svg" alt="c#" style="width: 5%;"/></a>
+<!--unity--><a href="https://unity.com"><img src="./images/unity.png" alt="unity" style="width: 5%;"/></a>
+<!--python--><a href="https://www.python.org"><img src="./images/python.svg" alt="python" style="width: 5%;"/></a>
+<!--git--><a href="https://git-scm.com"><img src="./images/git.svg" alt="git" style="width: 5%;"/></a>
+<!--javascript--><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="./images/js.svg" alt="javascript" style="width: 5%;"/></a>
+<!--html--><a href="https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics"><img src="./images/html.svg" alt="html" style="width: 5%;"/></a>
+<!--neovim--><a href="https://neovim.io"><img src="./images/neovim.svg" alt="neovim" style="width: 4%"/></a>
+<!--tensorflow--><a href="https://www.tensorflow.org"><img src="./images/tensorflow.svg" alt="tensorflow" style="width: 5%;"/></a>
+<!--css--><a href="https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/What_is_CSS"><img src="./images/css.svg" alt="css" style="width: 5%;"/></a>
+<!--blender--><a href="https://www.blender.org"><img src="./images/blender.svg" alt="blender" style="width: 5%;"/></a>
+<!--typescript--><a href="https://www.typescriptlang.org"><img src="./images/typescript.svg" alt="typescript" style="width: 5%"/></a> 
+<!--react--><a href="https://reactjs.org"><img src="./images/react.svg" alt="react" style="width: 5%"/></a>
 </div>
 
 <div>
