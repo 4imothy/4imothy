@@ -19,12 +19,22 @@ Hi I'm Tim
 </div>
 <!--  technologies -->
 <h3>Languages I Use</h3>
-<a href="https://www.java.com/en/"><img src="./images/java.svg" alt="java" style="width: 5%;"/></a> <a href="https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/">
-<img src="./images/c_hashtag.svg" alt="c#" style="width: 5%;"/></a>  <a href="https://www.python.org"><img src="./images/python.svg" alt="python" style="width: 5%;"/></a>  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="./images/js.svg" alt="javascript" style="width: 5%;"/></a>  <a href="https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics"><img src="./images/html.svg" alt="html" style="width: 5%;"/></a>  <a href="https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/What_is_CSS"><img src="./images/css.svg" alt="css" style="width: 5%;"/></a>  <a href="https://www.typescriptlang.org"><img src="./images/typescript.svg" alt="typescript" style="width: 5%"/></a>
+<a href="https://www.java.com/en/"><img src="./images/java.svg" alt="java" style="width: 5%;"/></a>
+<a href="https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/"><img src="./images/c_hashtag.svg" alt="c#" style="width: 5%;"/></a>
+<a href="https://www.python.org"><img src="./images/python.svg" alt="python" style="width: 5%;"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="./images/js.svg" alt="javascript" style="width: 5%;"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics"><img src="./images/html.svg" alt="html" style="width: 5%;"/></a>  <a href="https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/What_is_CSS"><img src="./images/css.svg" alt="css" style="width: 5%;"/></a>
+<a href="https://www.typescriptlang.org"><img src="./images/typescript.svg" alt="typescript" style="width: 5%"/></a>
 <div>
 <h3>Other Technologies I Use</h3>
 <div width="100%"/>
-<a href="https://nodejs.org/en/"><img src="./images/nodejs.svg" alt="nodejs" style="width: 5%;"/></a>  <a href="https://unity.com"><img src="./images/unity.png" alt="unity" style="width: 5%;"/></a>  <a href="https://git-scm.com"><img src="./images/git.svg" alt="git" style="width: 5%;"/></a>  <a href="https://www.blender.org"><img src="./images/blender.svg" alt="blender" style="width: 5%;"/></a>  <a href="https://neovim.io"><img src="./images/neovim.svg" alt="neovim" style="width: 4%"/></a>    <a href="https://reactjs.org"><img src="./images/react.svg" alt="react" style="width: 5%"/></a>  <a href="https://www.tensorflow.org"><img src="./images/tensorflow.svg" alt="tensorflow" style="width: 5%;"/></a>
+<a href="https://nodejs.org/en/"><img src="./images/nodejs.svg" alt="nodejs" style="width: 5%;"/></a>
+<a href="https://unity.com"><img src="./images/unity.png" alt="unity" style="width: 5%;"/></a>
+<a href="https://git-scm.com"><img src="./images/git.svg" alt="git" style="width: 5%;"/></a>      
+<a href="https://www.blender.org"><img src="./images/blender.svg" alt="blender" style="width: 5%;"/></a>
+<a href="https://neovim.io"><img src="./images/neovim.svg" alt="neovim" style="width: 4%"/></a> 
+<a href="https://reactjs.org"><img src="./images/react.svg" alt="react" style="width: 5%"/></a>
+<a href="https://www.tensorflow.org"><img src="./images/tensorflow.svg" alt="tensorflow" style="width: 5%;"/></a>
 </div>
 
 <h3>Most Used Languages</h3>
