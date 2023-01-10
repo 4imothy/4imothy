@@ -9,13 +9,13 @@ Hi I'm Tim
 </a>
 <img src="https://img.shields.io/github/stars/4tlc?style=social" alt="Star Count" style="width: 11%"/>
 <br/>
-<a href="https://github.com/4tlc/dotfiles"><img src="https://img.shields.io/badge/Setup-Dotfiles-blue?style=flat-square&logo=files&logoColor=E9EE9A" alt="dotfiles" style="height: 11%"/></a>
-<a href="https://neovim.io"><img src="https://img.shields.io/badge/Editor-NeoVim-blue?style=flat-square&logo=neovim" alt="NeoVim" style="height: 11%"/></a>
-<a href="https://en.wikipedia.org/wiki/MacOS"><img src="https://img.shields.io/badge/OS-macOS-informational?style=flat-square&logo=apple&logoColor=white" alt="MacOS" style="height: 11%"/></a>
+<a href="https://github.com/4tlc/dotfiles"><img src="https://img.shields.io/badge/Setup-Dotfiles-blue?style=flat-square&logo=files&logoColor=E9EE9A" alt="dotfiles" style="height: 12%"/></a>
+<a href="https://neovim.io"><img src="https://img.shields.io/badge/Editor-NeoVim-blue?style=flat-square&logo=neovim" alt="NeoVim" style="height: 12%"/></a>
+<a href="https://en.wikipedia.org/wiki/MacOS"><img src="https://img.shields.io/badge/OS-macOS-informational?style=flat-square&logo=apple&logoColor=white" alt="MacOS" style="height: 12%"/></a>
 <br>
-<a href="https://qutebrowser.com"><img src="https://img.shields.io/badge/Browser-Qutebrowser-blue?style=flat-square&logo=googlechrome&logoColor=ECC1E4" alt="qutebrowser" style="height: 11%"/></a>
-<a href="https://obsidian.md"><img src="https://img.shields.io/badge/Notes-Obsidian-blue?style=flat-square&logo=obsidian&logoColor=B298C5" alt="obsidian" style="height: 11%"/></a>
-<a href="https://en.wikipedia.org/wiki/Z_shell"><img src="https://img.shields.io/badge/Shell-ZSH-blue?style=flat-square&logo=gnometerminal&logoColor=B9C3B9" alt="z_shell" style="height: 11%"/></a>
+<a href="https://qutebrowser.com"><img src="https://img.shields.io/badge/Browser-Qutebrowser-blue?style=flat-square&logo=googlechrome&logoColor=ECC1E4" alt="qutebrowser" style="height: 12%"/></a>
+<a href="https://obsidian.md"><img src="https://img.shields.io/badge/Notes-Obsidian-blue?style=flat-square&logo=obsidian&logoColor=B298C5" alt="obsidian" style="height: 12%"/></a>
+<a href="https://en.wikipedia.org/wiki/Z_shell"><img src="https://img.shields.io/badge/Shell-ZSH-blue?style=flat-square&logo=gnometerminal&logoColor=B9C3B9" alt="z_shell" style="height: 12%"/></a>
 </div>
 <!--  technologies -->
 <div>
@@ -33,7 +33,7 @@ Hi I'm Tim
 <!--tensorflow--><a href="https://www.tensorflow.org"><img src="./images/tensorflow.svg" alt="tensorflow" style="width: 5%;"/></a>
 <!--css--><a href="https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/What_is_CSS"><img src="./images/css.svg" alt="css" style="width: 5%;"/></a>
 <!--blender--><a href="https://www.blender.org"><img src="./images/blender.svg" alt="blender" style="width: 5%;"/></a>
-<!--typescript--><a href="https://www.typescriptlang.org"><img src="./images/typescript.svg" alt="typescript" style="width: 5%"/></a> 
+<!--typescript--><a href="https://www.typescriptlang.org"><img src="./images/typescript.svg" alt="typescript" style="width: 5%"/></a>
 <!--react--><a href="https://reactjs.org"><img src="./images/react.svg" alt="react" style="width: 5%"/></a>
 </div>
 
