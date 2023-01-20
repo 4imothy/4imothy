@@ -19,7 +19,7 @@ Hi I'm Tim
 </div>
 <!--  technologies -->
 <div>
-<h3>Favorite Technologies</h3>
+<h3>Favorite Technologies</h3 style="vertical-align: center;">
 <!--zshell--><a href="https://zsh.org/"><img src="./images/zshell.png" alt="zshell" style="width: 5%;"/></a>
 <!--java--><a href="https://www.java.com/en/"><img src="./images/java.svg" alt="java" style="width: 5%;"/></a>
 <!--nodejs--><a href="https://nodejs.org/en/"><img src="./images/nodejs.svg" alt="nodejs" style="width: 5%;"/></a>
@@ -31,7 +31,7 @@ Hi I'm Tim
 <!--html--><a href="https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics"><img src="./images/html.svg" alt="html" style="width: 5%;"/></a>
 <!--neovim--><a href="https://neovim.io"><img src="./images/neovim.svg" alt="neovim" style="width: 4%"/></a>
 <!--tensorflow--><a href="https://www.tensorflow.org"><img src="./images/tensorflow.svg" alt="tensorflow" style="width: 5%;"/></a>
-<!--rust--><a href="https://www.rust-lang.org/"><img src="./images/rust.svg" alt="rust" style="width: 6%;"/></a>
+<!--rust--><a href="https://www.rust-lang.org/"><img src="./images/rust.svg" alt="rust" style="width: 5%;"/></a>
 <!--css--><a href="https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/What_is_CSS"><img src="./images/css.svg" alt="css" style="width: 5%;"/></a>
 <!--blender--><a href="https://www.blender.org"><img src="./images/blender.svg" alt="blender" style="width: 5%;"/></a>
 <!--typescript--><a href="https://www.typescriptlang.org"><img src="./images/typescript.svg" alt="typescript" style="width: 5%"/></a>
