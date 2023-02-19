@@ -19,7 +19,7 @@ Hi I'm Tim
 </div>
 <!--  technologies -->
 <div>
-<h3>Favorite Technologies</h3 style="vertical-align: center;">
+<h3>Technologies I Use</h3 style="vertical-align: center;">
 <!--zshell--><a href="https://zsh.org/"><img src="./images/zshell.png" alt="zshell" style="width: 5%;"/></a>
 <!--java--><a href="https://www.java.com/en/"><img src="./images/java.svg" alt="java" style="width: 5%;"/></a>
 <!--nodejs--><a href="https://nodejs.org/en/"><img src="./images/nodejs.svg" alt="nodejs" style="width: 5%;"/></a>
