@@ -36,9 +36,4 @@ Hi I'm Tim
 <!--blender--><a href="https://www.blender.org"><img src="./images/blender.svg" alt="blender" style="width: 5%;"/></a>
 <!--typescript--><a href="https://www.typescriptlang.org"><img src="./images/typescript.svg" alt="typescript" style="width: 5%"/></a>
 <!--react--><a href="https://reactjs.org"><img src="./images/react.svg" alt="react" style="width: 5%"/></a>
-</div>
-
-<div>
-<h3>Most Used Languages</h3>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4tlc&layout=compact&hide_title=true&langs_count=6&hide=SCSS" alt="Most Used Languages"/>
-<div>
+</div> 
