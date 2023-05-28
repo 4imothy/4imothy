@@ -7,7 +7,7 @@ Hi I'm Tim
 <a href="https://timothycronin.com">
 <img src="https://img.shields.io/badge/-My%20Portfolio-blue" alt="Portfolio Badge" style="width: 11%"/>
 </a>
-<img src="https://img.shields.io/github/stars/4tlc?style=social" alt="Star Count" style="width: 11%"/>
+<img src="https://img.shields.io/github/stars/4imothy?style=social" alt="Star Count" style="width: 11%"/>
 <br/>
 <a href="https://github.com/4tlc/dotfiles"><img src="https://img.shields.io/badge/Setup-Dotfiles-blue?style=flat-square&logo=files&logoColor=E9EE9A" alt="dotfiles" style="height: 12%"/></a>
 <a href="https://neovim.io"><img src="https://img.shields.io/badge/Editor-NeoVim-blue?style=flat-square&logo=neovim" alt="NeoVim" style="height: 12%"/></a>
