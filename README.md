@@ -18,7 +18,7 @@ Hi I'm Tim
 <a href="https://zsh.org/"><img src="https://img.shields.io/badge/Shell-ZSH-blue?style=flat-square&logo=gnometerminal&logoColor=B9C3B9" alt="z_shell" style="height: 12%"/></a>
 </div>
 <!--  technologies -->
-<div>
+<div style="text-align: center;">
   <h3>My Toolkit</h3 style="vertical-align: center;">
   <!--c--><a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="./images/c.svg" alt="c language" style="width: 5%"/></a>
   <!--rust--><a href="https://www.rust-lang.org/"><img src="./images/rust.svg" alt="rust" style="width: 6%;"/></a>
