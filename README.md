@@ -37,5 +37,5 @@ Hi I'm Tim
 <!--blender--><a href="https://www.blender.org"><img src="./images/blender.svg" alt="blender" style="width: 5%;"/></a>
 <!--typescript--><a href="https://www.typescriptlang.org"><img src="./images/typescript.svg" alt="typescript" style="width: 5%"/></a>
 <!--emacs--><a href="www.https://www.gnu.org/software/emacs/"><img src="./images/emacs.svg" alt="gnu emacs" style="width: 5%"/></a>
-<!--c--><a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="./images/c.png" alt="c language" style="width: 5%"/></a>
+<!--c--><a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="./images/c.svg" alt="c language" style="width: 5%"/></a>
 </div>
