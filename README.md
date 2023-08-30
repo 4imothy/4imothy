@@ -36,4 +36,6 @@ Hi I'm Tim
 <!--css--><a href="https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/What_is_CSS"><img src="./images/css.svg" alt="css" style="width: 5%;"/></a>
 <!--blender--><a href="https://www.blender.org"><img src="./images/blender.svg" alt="blender" style="width: 5%;"/></a>
 <!--typescript--><a href="https://www.typescriptlang.org"><img src="./images/typescript.svg" alt="typescript" style="width: 5%"/></a>
-</div> 
+<!--emacs--><a href="www.https://www.gnu.org/software/emacs/"><img src="./images/emacs.svg" alt="gnu emacs" style="width: 5%"/></a>
+<!--c--><a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="./images/c.png" alt="c language" style="width: 5%"/></a>
+</div>
