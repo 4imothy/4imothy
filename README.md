@@ -14,7 +14,6 @@ Hi I'm Tim
 <a href="https://en.wikipedia.org/wiki/MacOS"><img src="https://img.shields.io/badge/OS-macOS-informational?style=flat-square&logo=apple&logoColor=white" alt="MacOS" style="height: 12%"/></a>
 <br>
 <a href="https://qutebrowser.com"><img src="https://img.shields.io/badge/Browser-Qutebrowser-blue?style=flat-square&logo=googlechrome&logoColor=ECC1E4" alt="qutebrowser" style="height: 12%"/></a>
-<a href="https://obsidian.md"><img src="https://img.shields.io/badge/Notes-Obsidian-blue?style=flat-square&logo=obsidian&logoColor=B298C5" alt="obsidian" style="height: 12%"/></a>
 <a href="https://zsh.org/"><img src="https://img.shields.io/badge/Shell-ZSH-blue?style=flat-square&logo=gnometerminal&logoColor=B9C3B9" alt="z_shell" style="height: 12%"/></a>
 </div>
 <!--  technologies -->
