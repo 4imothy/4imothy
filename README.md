@@ -11,10 +11,6 @@ Hi I'm Tim
 <br/>
 <a href="https://github.com/4tlc/dotfiles"><img src="https://img.shields.io/badge/Setup-Dotfiles-blue?style=flat-square&logo=files&logoColor=E9EE9A" alt="dotfiles" style="height: 12%"/></a>
 <a href="https://www.gnu.org/software/emacs/"><img src="https://img.shields.io/badge/Editor-Emacs-blue?style=flat-square&logo=gnuemacs&logoColor=green" alt="NeoVim" style="height: 12%"/></a>
-<a href="https://en.wikipedia.org/wiki/MacOS"><img src="https://img.shields.io/badge/OS-macOS-informational?style=flat-square&logo=apple&logoColor=white" alt="MacOS" style="height: 12%"/></a>
-<br>
-<a href="https://qutebrowser.com"><img src="https://img.shields.io/badge/Browser-Qutebrowser-blue?style=flat-square&logo=googlechrome&logoColor=ECC1E4" alt="qutebrowser" style="height: 12%"/></a>
-<a href="https://zsh.org/"><img src="https://img.shields.io/badge/Shell-ZSH-blue?style=flat-square&logo=gnometerminal&logoColor=B9C3B9" alt="z_shell" style="height: 12%"/></a>
 </div>
 <!--  technologies -->
 <div align="center">
