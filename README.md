@@ -25,7 +25,7 @@ Hi I'm Tim
   <!--typescript--><a href="https://www.typescriptlang.org"><img src="./images/typescript.svg" alt="typescript" style="width: 5%"/></a>
   <!--css--><a href="https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/What_is_CSS"><img src="./images/css.svg" alt="css" style="width: 5%;"/></a>
   <br>
-  <!--emacs--><a href="www.https://www.gnu.org/software/emacs/"><img src="./images/emacs.svg" alt="gnu emacs" style="width: 5%"/></a>
+  <!--emacs--><a href="https://www.gnu.org/software/emacs/"><img src="./images/emacs.svg" alt="gnu emacs" style="width: 5%"/></a>
   <!--zshell--><a href="https://zsh.org/"><img src="./images/zshell.png" alt="zshell" style="width: 5%;"/></a>
   <!--react--><a href="https://reactjs.org"><img src="./images/react.svg" alt="react" style="width: 5%"/></a>
   <!--nodejs--><a href="https://nodejs.org/en/"><img src="./images/nodejs.svg" alt="nodejs" style="width: 5%;"/></a>
