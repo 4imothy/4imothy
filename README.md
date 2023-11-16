@@ -7,7 +7,9 @@ Hi I'm Tim
 <a href="https://timothycronin.com">
 <img src="https://img.shields.io/badge/-My%20Portfolio-blue" alt="Portfolio Badge" style="width: 11%"/>
 </a>
+<a href="https://github.com/4imothy?tab=repositories&q=&type=&language=&sort=stargazers">
 <img src="https://img.shields.io/github/stars/4imothy?style=social" alt="Star Count" style="width: 11%"/>
+</a>
 <br/>
 <a href="https://github.com/4tlc/dotfiles"><img src="https://img.shields.io/badge/Setup-Dotfiles-blue?style=flat-square&logo=files&logoColor=E9EE9A" alt="dotfiles" style="height: 12%"/></a>
 <a href="https://www.gnu.org/software/emacs/"><img src="https://img.shields.io/badge/Editor-Emacs-blue?style=flat-square&logo=gnuemacs&logoColor=green" alt="NeoVim" style="height: 12%"/></a>
