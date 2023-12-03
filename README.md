@@ -19,10 +19,10 @@ Hi I'm Tim
   <h2>My Toolkit</h2>
   <!--c--><a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="./images/c.svg" alt="c language" style="width: 5%"/></a>
   <!--rust--><a href="https://www.rust-lang.org/">
-    <picture style="width: 6%;"/>
+    <picture style="width: 6%;">
       <source media="(prefers-color-scheme: dark)" srcset="./images/white_rust.svg">
       <source media="(prefers-color-scheme: light)" srcset="./images/black_rust.svg">
-      <img alt="rust." src="./images/black_rust.svg">
+      <img alt="rust" src="./images/black_rust.svg">
     </picture>
   </a>
   <!--javascript--><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="./images/js.svg" alt="javascript" style="width: 5%;"/></a>
