@@ -33,7 +33,7 @@ Hi I'm Tim
   <!--nodejs--><a href="https://nodejs.org/en/"><img src="./images/nodejs.svg" alt="nodejs" style="width: 5%;"/></a>
   <!--unity--><a href="https://unity.com"><img src="./images/unity.png" alt="unity" style="width: 5%;"/></a>
   <!--git--><a href="https://git-scm.com"><img src="./images/git.svg" alt="git" style="width: 5%;"/></a>
-  <!--neovim--><a href="https://neovim.io"><img src="./images/neovim.svg" alt="neovim" style="width: 4%"/></a>
+  <!--neovim--><a href="https://www.vim.org/"><img src="./images/vim.svg" alt="neovim" style="width: 4%"/></a>
   <!--tensorflow--><a href="https://www.tensorflow.org"><img src="./images/tensorflow.svg" alt="tensorflow" style="width: 5%;"/></a>
   <!--blender--><a href="https://www.blender.org"><img src="./images/blender.svg" alt="blender" style="width: 5%;"/></a>
 </div>
