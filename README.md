@@ -12,7 +12,7 @@ Hi I'm Tim
 </a>
 <br/>
 <a href="https://github.com/4tlc/dotfiles"><img src="https://img.shields.io/badge/Setup-Dotfiles-blue?style=flat-square&logo=files&logoColor=E9EE9A" alt="dotfiles" style="height: 12%"/></a>
-<a href="https://www.gnu.org/software/emacs/"><img src="https://img.shields.io/badge/Editor-GNU%20Emacs-blue?style=flat-square&logo=gnuemacs&logoColor=pink" alt="NeoVim" style="height: 12%"/></a>
+<a href="https://www.gnu.org/software/emacs/"><img src="https://img.shields.io/badge/Editor-GNU%20Emacs-blue?style=flat-square&logo=gnuemacs&logoColor=pink" alt="Emacs" style="height: 12%"/></a>
 </div>
 <!--  technologies -->
 <div align="center">
