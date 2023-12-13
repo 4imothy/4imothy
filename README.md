@@ -12,7 +12,7 @@ Hi I'm Tim
 </a>
 <br/>
 <a href="https://github.com/4tlc/dotfiles"><img src="https://img.shields.io/badge/Setup-Dotfiles-blue?style=flat-square&logo=files&logoColor=E9EE9A" alt="dotfiles" style="height: 2.5vh"/></a>
-<a href="https://madmalik.github.io/mononoki/"><img src="https://img.shields.io/badge/Font-mononoki-blue?style=flat-square&logo=Academia&logoColor=pink" alt="Mononoki" style="height: 2.5vh"/></a>
+<a href="https://madmalik.github.io/mononoki/"><img src="https://img.shields.io/badge/Font-mononoki-blue?style=flat-square&logo=Academia&logoColor=green" alt="Mononoki" style="height: 2.5vh"/></a>
 <br/>
 <a href="https://www.gnu.org/software/emacs/"><img src="https://img.shields.io/badge/Editor-GNU%20Emacs-blue?style=flat-square&logo=gnuemacs&logoColor=pink" alt="Emacs" style="height: 2.5vh"/></a>
 </div>
