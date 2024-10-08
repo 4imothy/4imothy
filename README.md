@@ -15,4 +15,6 @@ Hi I'm Tim
 <a href="https://madmalik.github.io/mononoki/"><img src="https://img.shields.io/badge/Font-mononoki-blue?style=flat-square&logo=Academia&logoColor=green" alt="Mononoki" style="height: 2.5vh"/></a>
 <br/>
 <a href="https://www.gnu.org/software/emacs/"><img src="https://img.shields.io/badge/Editor-GNU%20Emacs-blue?style=flat-square&logo=gnuemacs&logoColor=pink" alt="Emacs" style="height: 2.5vh"/></a>
+<br/>
+<a href="https://data.typeracer.com/pit/profile?user=bigwinnz101&ref=badge&ref=badge" target="_top"><img src="https://data.typeracer.com/misc/badge?user=bigwinnz101" border="0" alt="TypeRacer.com scorecard for user bigwinnz101"/></a>
 </div>
