@@ -8,7 +8,7 @@ Hi I'm Tim
 <img src="https://img.shields.io/badge/-My%20Website-blue" alt="Website Badge" style="width: 11%; height: 3vh"/>
 </a>
 <a href="https://github.com/4imothy?tab=repositories&q=&type=&language=&sort=stargazers">
-<img src="https://img.shields.io/github/stars/4imothy?style=social" alt="Star Count" style="width: 11%; height: 3vh"/>
+<img src="https://img.shields.io/github/stars/4imothy?style=flat&label=Stars" alt="Star Count" style="width: 11%; height: 3vh"/>
 </a>
 <br/>
 <a href="https://github.com/4imothy/dotfiles"><img src="https://img.shields.io/badge/Setup-Dotfiles-blue?style=flat-square&logo=files&logoColor=E9EE9A" alt="dotfiles" style="height: 2.5vh"/></a>
